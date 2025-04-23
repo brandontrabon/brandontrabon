@@ -7,7 +7,6 @@ Software Architect
 I've been creating software professionally since November of 2000. In that time I've worked in a variety of languages, frameworks and industries.
 
 * 🌍  I'm based in Brisbane, Queensland Australia
-* 🖥️  See my portfolio at [My Projects Website](http://beesoft-collective.com)
 * ✉️  You can contact me at [brandon.trabon@gmail.com](mailto:brandon.trabon@gmail.com)
 * 🤝  I'm open to collaborating on open source projects.
 
